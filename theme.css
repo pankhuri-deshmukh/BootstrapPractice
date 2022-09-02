@@ -1,0 +1,22 @@
+body{
+    background-color: #FDFAF6;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 7em;
+    color: #1EAE98;
+}
+h5{
+    font-family: 'Poppins', sans-serif;
+    color: #1EAE98;
+}
+.container{
+    display:block;
+    width:70%;
+    margin:0 auto;
+    padding: 100px;
+}
+.link-color{
+    color:#1EAE98;
+}
